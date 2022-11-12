@@ -1,5 +1,4 @@
 # NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
-# NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
 ![image](https://user-images.githubusercontent.com/85746056/156109575-107339ed-c1ed-4b3f-adc0-9c11d4f4ba7d.png)
 
 ## 1) Problem Statement
